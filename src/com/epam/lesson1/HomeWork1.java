@@ -1,5 +1,5 @@
 
-package com.epam.example;
+package com.epam.lesson1;
 
 import java.util.Scanner;
 
@@ -18,6 +18,5 @@ public class HomeWork1 {
         System.out.println("*         *        * * * * *    *       *");
         System.out.println("                                         ");
         System.out.println("* * * *   *      *           *  *       *");
-
     }
 }
