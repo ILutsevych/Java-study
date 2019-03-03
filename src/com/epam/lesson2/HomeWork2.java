@@ -8,7 +8,6 @@ public class HomeWork2 {
         taskTwo();
         taskThree();
         taskFour();
-
     }
 
     public static void taskOne(){
